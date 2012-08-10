@@ -1,2 +1,7 @@
-framework/
-play
+logs
+project/project
+project/target
+target
+tmp
+dist
+.cache
