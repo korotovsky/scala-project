@@ -8,7 +8,4 @@ object Application extends Controller {
     def index = Action {
         Ok(html.index.index())
     }
-
-    def feedback = TODO
-
 }

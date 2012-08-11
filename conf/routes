@@ -4,7 +4,6 @@
 
 # Home page
 GET     /                           controllers.Application.index
-GET     /feedback                   controllers.Application.feedback
 GET     /post/create                controllers.Post.create
 POST    /post/create                controllers.Post.create
 
