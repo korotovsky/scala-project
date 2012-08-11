@@ -1,7 +1,21 @@
-@(message: String)
+@(loginForm: Form[(String, String)])
 
-@main("Welcome to Play 2.0") {
-    
-    @play20.welcome(message)
-    
+@import helper._
+
+@main(title = "Страница с одной формой") {
+
+    <h1>Войдите используя логин и пароль:</h1>
+
+    @form(action = routes.Application.index, args = 'id -> "loginform") {
+
+        @inputText(
+            field = loginForm("name"),
+            args = '_label -> "What's your name?", 'placeholder -> "Dmitry"
+        )
+
+        @inputText(
+            field = loginForm("password"),
+            args = '_label -> "Enter your password here", 'placeholder -> "****", 'type -> "password"
+        )
+    }
 }
