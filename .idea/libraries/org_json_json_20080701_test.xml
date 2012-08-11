@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="org.json_json_20080701_test">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/org.json/json/20080701/jars/json.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/org.json/json/20080701/jars/json.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="net.java.dev.jna_platform_3.4.0_test">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/net.java.dev.jna/platform/3.4.0/jars/platform.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/net.java.dev.jna/platform/3.4.0/jars/platform.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

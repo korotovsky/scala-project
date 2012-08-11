@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="org.joda_joda-convert_1.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/org.joda/joda-convert/1.1/jars/joda-convert.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/org.joda/joda-convert/1.1/jars/joda-convert.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

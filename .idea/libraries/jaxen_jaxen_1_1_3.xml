@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="jaxen_jaxen_1.1.3">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/jaxen/jaxen/1.1.3/jars/jaxen.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/jaxen/jaxen/1.1.3/jars/jaxen.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

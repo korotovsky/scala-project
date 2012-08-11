@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="commons-io_commons-io_2.0.1_test">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/commons-io/commons-io/2.0.1/jars/commons-io.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/commons-io/commons-io/2.0.1/jars/commons-io.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

@@ -1,10 +1,9 @@
 <component name="libraryTable">
   <library name="net.sourceforge.htmlunit_htmlunit-core-js_2.9_test">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/net.sourceforge.htmlunit/htmlunit-core-js/2.9/jars/htmlunit-core-js.jar!/">
-      </root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/net.sourceforge.htmlunit/htmlunit-core-js/2.9/jars/htmlunit-core-js.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

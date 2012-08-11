@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="org.apache.httpcomponents_httpmime_4.1.2_test">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/org.apache.httpcomponents/httpmime/4.1.2/jars/httpmime.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/org.apache.httpcomponents/httpmime/4.1.2/jars/httpmime.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

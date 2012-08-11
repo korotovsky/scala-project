@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="com.jolbox_bonecp_0.7.1.RELEASE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/com.jolbox/bonecp/0.7.1.RELEASE/bundles/bonecp.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/com.jolbox/bonecp/0.7.1.RELEASE/bundles/bonecp.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

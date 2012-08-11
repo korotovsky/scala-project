@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="org.w3c.css_sac_1.3_test">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/org.w3c.css/sac/1.3/jars/sac.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/org.w3c.css/sac/1.3/jars/sac.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

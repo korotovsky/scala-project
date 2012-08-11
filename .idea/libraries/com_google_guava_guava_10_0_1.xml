@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="com.google.guava_guava_10.0.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/com.google.guava/guava/10.0.1/jars/guava.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/com.google.guava/guava/10.0.1/jars/guava.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

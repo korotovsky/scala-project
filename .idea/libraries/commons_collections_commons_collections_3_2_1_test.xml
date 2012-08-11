@@ -1,11 +1,9 @@
 <component name="libraryTable">
   <library name="commons-collections_commons-collections_3.2.1_test">
     <CLASSES>
-      <root 
-      url="jar://$USER_HOME$/Development/playframework/repository/local/commons-collections/commons-collections/3.2.1/jars/commons-collections.jar!/">
-</root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/commons-collections/commons-collections/3.2.1/jars/commons-collections.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

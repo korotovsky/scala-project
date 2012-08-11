@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="org.reflections_reflections_0.9.6">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/org.reflections/reflections/0.9.6/jars/reflections.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/org.reflections/reflections/0.9.6/jars/reflections.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

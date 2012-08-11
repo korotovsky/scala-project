@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="org.easytesting_fest-util_1.1.6_test">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/org.easytesting/fest-util/1.1.6/jars/fest-util.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/org.easytesting/fest-util/1.1.6/jars/fest-util.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

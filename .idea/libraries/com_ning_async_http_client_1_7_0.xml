@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="com.ning_async-http-client_1.7.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/com.ning/async-http-client/1.7.0/jars/async-http-client.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/com.ning/async-http-client/1.7.0/jars/async-http-client.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

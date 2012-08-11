@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="commons-codec_commons-codec_1.4_test">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/commons-codec/commons-codec/1.4/jars/commons-codec.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/commons-codec/commons-codec/1.4/jars/commons-codec.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

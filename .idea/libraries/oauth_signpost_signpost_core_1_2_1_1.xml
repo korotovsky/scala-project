@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="oauth.signpost_signpost-core_1.2.1.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/oauth.signpost/signpost-core/1.2.1.1/jars/signpost-core.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/oauth.signpost/signpost-core/1.2.1.1/jars/signpost-core.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

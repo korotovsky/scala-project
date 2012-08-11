@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="xerces_xercesImpl_2.9.1_test">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/xerces/xercesImpl/2.9.1/jars/xercesImpl.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/xerces/xercesImpl/2.9.1/jars/xercesImpl.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="org.apache.httpcomponents_httpcore_4.1.3_test">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/org.apache.httpcomponents/httpcore/4.1.3/jars/httpcore.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/org.apache.httpcomponents/httpcore/4.1.3/jars/httpcore.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

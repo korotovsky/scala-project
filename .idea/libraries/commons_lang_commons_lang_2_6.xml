@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="commons-lang_commons-lang_2.6">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/commons-lang/commons-lang/2.6/jars/commons-lang.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/commons-lang/commons-lang/2.6/jars/commons-lang.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

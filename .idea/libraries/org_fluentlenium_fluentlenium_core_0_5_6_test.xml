@@ -1,10 +1,9 @@
 <component name="libraryTable">
   <library name="org.fluentlenium_fluentlenium-core_0.5.6_test">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/org.fluentlenium/fluentlenium-core/0.5.6/jars/fluentlenium-core.jar!/">
-      </root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/org.fluentlenium/fluentlenium-core/0.5.6/jars/fluentlenium-core.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

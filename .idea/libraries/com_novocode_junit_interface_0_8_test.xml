@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="com.novocode_junit-interface_0.8_test">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/com.novocode/junit-interface/0.8/jars/junit-interface.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/com.novocode/junit-interface/0.8/jars/junit-interface.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>

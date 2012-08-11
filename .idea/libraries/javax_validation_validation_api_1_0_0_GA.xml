@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="javax.validation_validation-api_1.0.0.GA">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Development/playframework/repository/local/javax.validation/validation-api/1.0.0.GA/jars/validation-api.jar!/"></root>
+      <root url="jar://$PROJECT_DIR$/../playframework/repository/local/javax.validation/validation-api/1.0.0.GA/jars/validation-api.jar!/" />
     </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>
