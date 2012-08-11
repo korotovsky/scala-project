@@ -1,22 +1,14 @@
-@(posts: List[Posts], postForm: Form[String])
+@(postForm: Form[Posts])
 @main(title = "Добавить новый пост") {
-
-    <h2>Постов: @posts.size</h2>
-
-    <ul>
-        @posts.map { post =>
-        <li>
-            @post.title
-        </li>
-        }
-    </ul>
-
     <h2>Добавить новый пост:</h2>
 
     @helper.form(action = routes.Post.create) {
         <h3>Заголовок поста</h3>
         @helper.input(postForm("title")) { (id, name, value, args) =>
             <input type="text" name="@name" id="@id" value="@value" />
+        }
+        @helper.input(postForm("description")) { (id, name, value, args) =>
+            <textarea name="@name" id="@id">@value</textarea>
         }
         <input type="submit" />
     }

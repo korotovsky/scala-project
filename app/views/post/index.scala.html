@@ -1,0 +1,11 @@
+@(posts: List[Posts])
+
+<h2>Постов: @posts.size</h2>
+
+<ul>
+    @posts.map { post =>
+    <li>
+        @post.title
+    </li>
+    }
+</ul>
