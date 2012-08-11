@@ -1,0 +1,15 @@
+@main(title = "Добавить новый пост") {
+
+    <h2>Добавить новый пост:</h2>
+
+    @helper.form(action = routes.Post.submit) {
+        <h3>Заголовок поста</h3>
+        @helper.input(postForm("title")) { (id, name, value) =>
+            <input type="text" name="@name" id="@id" value="@value">
+        }
+        @helper.input(postForm("description")) { (id, name, value) =>
+            <input type="text" name="@name" id="@id" value="@value">
+        }
+        @helper.submit()
+    }
+}
