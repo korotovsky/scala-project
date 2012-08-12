@@ -18,11 +18,21 @@ object Post extends Controller {
         )(Posts.apply)(Posts.unapply)
     )
 
-    def create = Action {
-        Ok(html.post.create(postForm))
+    def create = Action { implicit request =>
+        if (request.method.eq("GET")) {
+            Ok(html.post.create(postForm))
+        } else {
+            postForm.bindFromRequest.fold(
+                errors => BadRequest(html.post.create(errors)),
+                post => {
+                    Posts.create(post.title, post.description)
+                    Redirect(routes.Post.index)
+                }
+            )
+        }
     }
-
+  
     def index = Action {
-        Ok(html.post.index(Posts.all()))
+        Ok(html.post.index(Posts.findAll()))
     }
 }

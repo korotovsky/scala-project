@@ -9,7 +9,7 @@ case class Posts(
 )
 
 object Posts {
-    def all(): List[Posts] = Nil
+    def findAll(): List[Posts] = Nil
 
     def create(title: String, description: String) {}
 

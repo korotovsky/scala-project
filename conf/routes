@@ -4,7 +4,11 @@
 
 # Home page
 GET     /                           controllers.Application.index
+
+#
 GET     /posts                      controllers.Post.index
+
+# Add new post
 GET     /post/create                controllers.Post.create
 POST    /post/create                controllers.Post.create
 
